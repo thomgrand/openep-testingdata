@@ -138,4 +138,13 @@
             <RefAnnotationConfig Algorithm="-1" />
         </Map>
     </Maps>
+	<Meshes Count="2">
+        <RegistrationMatrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 </RegistrationMatrix>
+        <Mesh FileName="Sphere.mesh" Visible="false">
+            <LandMarks />
+        </Mesh>
+		<Mesh FileName="Cube.mesh" Visible="false">
+            <LandMarks />
+        </Mesh>
+	</Meshes>
 </Study>
